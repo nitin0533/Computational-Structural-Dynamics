@@ -4,6 +4,7 @@
 1. Performed Model Order Reduction of assembly by 18 times using Craig-Bampton Method & found First 10 Frequencies
 2. Improved CBM results with Model Order reduction of assembly by 22 times using Characteristic Constraint Modes
 3. Acheived 98.34% accuracy in first 10 Natural frequencies using CBM, and improved it to 99.97% using CC modes
+
 **Component Mode Synthesis to estimate Natural frequencies of a Structural Assembly using MATLAB**
 1. Performed Model Order Reduction by 18 times using Craig-Bampton Method and 22 times using Characteristic Constraint modes
 2. Acheived 98.34% accuracy in first 10 Natural frequencies using CBM, and improved it to 99.97% using CC modes
