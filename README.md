@@ -37,4 +37,6 @@ The results of first ten natural frequencies are tabulated below (snip from the 
 Minimum accuracy between Craig-Bampton frequencies and actual frequencies = (1-(32.9365-32.3998)/32.3998)*100 =98.34%
 
 Minimum accuracy between CC modes frequencies and actual frequencies = (1-(32.4003-32.3998)/32.3998)*100 = 99.97%
- 
+
+**How to run the code**
+ Make sure all the files are in same directory. Run the code.
